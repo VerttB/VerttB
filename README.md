@@ -1,5 +1,6 @@
 ## Estudande de Sistemas de Informação na UNEB 👋
-
+Desenvolvedor Full Stack com experiência prática no desenvolvimento de plataformas web utilizando Next.js, TypeScript, Python, FastAPI, PostgreSQL e Docker.
+Estou atualmente estudando NestJS
 <!--
 **VerttB/VerttB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
