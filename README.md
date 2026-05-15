@@ -4,23 +4,6 @@ Full Stack Developer focused on building scalable web applications and backend s
 - Frontend: Next.js, React.js, Typescript, TailwindCSS
 - Backend: NestJs, FastAPI, Node.Js, Python,
 - Database & Tools: Docker, PostgreSQL, Prisma, SQLAlchemy
-### Frontend
-- Next.js
-- React.js
-- TypeScript
-- TailwindCSS
-
-### Backend
-- NestJS
-- FastAPI
-- Node.js
-- Python
-
-### Database & DevOps
-- PostgreSQL
-- Prisma
-- SQLAlchemy
-- Docker
 
 ## 🧠 Currently Learning
 - Software Architecture
