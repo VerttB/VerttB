@@ -1,17 +1,34 @@
-## Estudande de Sistemas de Informação na UNEB 👋
-Desenvolvedor Full Stack com experiência prática no desenvolvimento de plataformas web utilizando Next.js, TypeScript, Python, FastAPI, PostgreSQL e Docker.
-Estou atualmente estudando NestJS
-<!--
-**VerttB/VerttB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focused on building scalable web applications and backend systems.
 
-Here are some ideas to get you started:
+## Stack
+- Frontend: Next.js, React.js, Typescript, TailwindCSS
+- Backend: NestJs, FastAPI, Node.Js, Python,
+- Database & Tools: Docker, PostgreSQL, Prisma, SQLAlchemy
+### Frontend
+- Next.js
+- React.js
+- TypeScript
+- TailwindCSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+- NestJS
+- FastAPI
+- Node.js
+- Python
+
+### Database & DevOps
+- PostgreSQL
+- Prisma
+- SQLAlchemy
+- Docker
+
+## 🧠 Currently Learning
+- Software Architecture
+- Backend Engineering
+- System Design
+- Scalable APIs
+- Distributed Systems
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/alysson-dos-anjos-00b431305
+- Email: alyssonoliveira456@gmail.com
